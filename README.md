@@ -55,7 +55,7 @@ An autonomous robot that **detects flames** using three analog flame sensors, **
   <video src="https://github.com/EmperorGonneBerserk/Flame-Aware-Rescue-Robot/raw/main/assets/flame_aware_rescue_robot.mp4" width="700" controls></video>
 </p>
 
-👉 **[Click here to view or download the video directly](https://github.com/EmperorGonneBerserk/Flame-Aware-Rescue-Robot/raw/main/assets/flame_aware_rescue_robot.mp4)**
+👉 **[Click here to view or download the video directly](https://github.com/EmperorGonneBerserk/Flame-Aware-Rescue-Robot/raw/main/flame_aware_rescue_robot.mp4)**
 
 ---
 
