@@ -41,10 +41,28 @@ An autonomous robot that **detects flames** using three analog flame sensors, **
 
 ---
 
+## 🖼️ Project Preview
+
+<p align="center">
+  <img src="flame_aware_rescue_robot.png" width="600" alt="Flame-Aware Rescue Robot Preview">
+</p>
+
+---
+
+## 🎥 Project Demonstration
+
+<p align="center">
+  <video src="https://github.com/EmperorGonneBerserk/Flame-Aware-Rescue-Robot/raw/main/assets/flame_aware_rescue_robot.mp4" width="700" controls></video>
+</p>
+
+👉 **[Click here to view or download the video directly](https://github.com/EmperorGonneBerserk/Flame-Aware-Rescue-Robot/raw/main/assets/flame_aware_rescue_robot.mp4)**
+
+---
+
 ## 📂 Files
 - `flame_rescue_bot.ino` — main Arduino sketch
 - `README.md` — this file
-- 
+  
 ---
 
 ## 🔧 Calibration & Tips
